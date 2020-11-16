@@ -4,5 +4,5 @@ package com.brayanmezacastillo.netflix;
 public interface IVisualizable {
     public void marcarVisto();
     public boolean esVisto();
-    public String tiempoVisto(); 
+    public String tiempoVisto();
 }
